@@ -1,0 +1,12 @@
+Questões Teóricas (Múltipla Escolha) - Respostas
+
+1) B - Um ponteiro armazena o endereço de memória de uma variável. 
+
+2) D - Acessa (dereferencia) o valor armazenado no endereço de memória para o qual 
+o ponteiro aponta.
+
+3) C - Para alocar um bloco de memória de um tamanho especificado em bytes e 
+retornar um ponteiro para o início desse bloco.
+
+4) modifica(&num, 10); 
+Ou qualquer outro valor inteiro no segundo parâmetro
